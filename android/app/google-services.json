@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1079472629582",
+    "project_id": "meditation-86614",
+    "storage_bucket": "meditation-86614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079472629582:android:01ec5378b2fcdb1e8a601f",
+        "android_client_info": {
+          "package_name": "com.flutterflow.meditation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079472629582-qka90dbiogql63cel7bgsl05vst8ss41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLvgP5yLcJC5U2vV0KLVeZkAx6g2ipwLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079472629582-qka90dbiogql63cel7bgsl05vst8ss41.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079472629582-npiqr4rrigf0uvdu0dq04q3qou7r3vqc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.meditation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
